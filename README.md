@@ -1,4 +1,4 @@
-# DAHI
+<img width="470" height="805" alt="image" src="https://github.com/user-attachments/assets/7109f610-0677-4c8d-b681-9e03c6af69e7" /># DAHI
 ### Deep Artificial Hybrid Intelligence
 
 <p align="center">
@@ -724,3 +724,25 @@ DAHI is more than a recommendation engine.
 It is an extensible multimodal AI framework designed to understand videos through the combination of vision, language and semantic representations.
 
 The long-term vision of the project is to build an intelligent video understanding platform capable of powering next-generation recommendation systems and AI applications.
+
+<img width="470" height="424" alt="image" src="https://github.com/user-attachments/assets/4b0a1b6e-dfd8-4fae-8fa3-04e4ee729ba9" />
+
+*************************************************************************
+<img width="481" height="524" alt="image" src="https://github.com/user-attachments/assets/6e2c611c-1d90-4095-874f-c0abfd48c3ca" />
+
+
+************************************************************************
+
+<img width="474" height="458" alt="image" src="https://github.com/user-attachments/assets/f7b6cde1-b583-40fa-b6c3-49fec476af3a" />
+
+*************************************************************************
+
+
+<img width="479" height="135" alt="image" src="https://github.com/user-attachments/assets/89b652e6-ae7b-40a7-a901-bdf1007b35e7" />
+
+NOT : The OCR data for this system is stored in JSON format.
+
+
+
+
+
