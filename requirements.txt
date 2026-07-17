@@ -1,0 +1,46 @@
+# ===========================
+# Core
+# ===========================
+
+numpy
+pandas
+tqdm
+Pillow
+
+# ===========================
+# Computer Vision
+# ===========================
+
+opencv-python
+scenedetect[opencv]
+ultralytics
+easyocr
+
+# ===========================
+# Deep Learning
+# ===========================
+
+torch
+torchvision
+open_clip_torch
+
+# ===========================
+# Speech
+# ===========================
+
+openai-whisper
+ffmpeg-python
+
+# ===========================
+# NLP
+# ===========================
+
+sentence-transformers
+transformers
+huggingface-hub
+
+# ===========================
+# Utilities
+# ===========================
+
+PyYAML

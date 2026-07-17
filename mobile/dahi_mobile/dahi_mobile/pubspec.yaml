@@ -1,0 +1,68 @@
+name: dahi_mobile
+description: "DAHI AI Search Mobile Application"
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.8.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+
+  # Networking
+  dio: ^5.9.0
+
+  # State Management
+  provider: ^6.1.5
+
+  # Fonts
+  google_fonts: ^6.3.2
+
+  # Animations
+  flutter_animate: ^4.5.2
+
+  # SVG
+  flutter_svg: ^2.2.1
+
+  # Icons
+  iconsax_flutter: ^1.0.1
+
+  # Cached Images
+  cached_network_image: ^3.4.1
+
+  # Shimmer Loading
+  shimmer: ^3.0.0
+
+  # Video Player
+  video_player: ^2.11.1
+
+  # Pick Video
+  image_picker: ^1.2.0
+
+  # Local Storage
+  shared_preferences: ^2.5.3
+
+  # Responsive UI
+  flutter_screenutil: ^5.9.3
+
+  # Badges
+  badges: ^3.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/icons/
+
+video_player: ^2.10.0
